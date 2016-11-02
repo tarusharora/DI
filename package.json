@@ -1,0 +1,15 @@
+{
+  "name": "NodejsWebApp1",
+  "version": "0.0.0",
+  "description": "NodejsWebApp1",
+  "main": "server.js",
+  "author": {
+    "name": "Tarush",
+    "email": ""
+  },
+  "dependencies": {
+    "office2pdf": "0.0.2",
+    "unoconv": "^0.1.2",
+    "unoconv2": "^1.0.0"
+  }
+}
